@@ -34,3 +34,6 @@ layouts = ["myv"]
 github = "giellalt/keyboard-mdf"
 layouts = ["mdf"]
 
+[bundle.nno]
+github = "giellalt/keyboard-nno"
+layouts = ["nn", "nn-Runr"]
