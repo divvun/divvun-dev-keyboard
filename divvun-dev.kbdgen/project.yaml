@@ -4,7 +4,7 @@ locales:
     description: "Beta Keyboards for minority and indigenous languages from the Divvun group at UiT."
   fi:
     name: "Divvun Dev-näppäimistöt"
-    description: "Saamen kielen Beta-näppäimistöt Tromssan yliopiston Divvun-ryhmältä."
+    description: "Vähemmistö- ja alkuperäiskielten kielten beta-näppäimistöt Tromssan yliopiston Divvun-ryhmältä."
   'no':
     name: "Divvun Dev-tastaturer"
     description: "Beta-tastaturer for minoritets- og urfolksspråk fra Divvun-gruppa ved UiT."
@@ -16,7 +16,10 @@ locales:
     description: "Beta-tastatur for minoritets- og urfolksspråk frå Divvun-gruppa ved UiT."
   se:
     name: "Divvun Dev boallobeavddit"
-    description: "Beta-boallobeavddit sámegielaide maid Divvun-joavku UiT:s lea ráhkadan."
+    description: "Unnitlogu- ja eamiálbmotgielaid beta-boallobeavddit maid Divvun-joavku UiT:s lea ráhkadan."
+  smj:
+    name: "Divvun-boallobievde"
+    description: "Unneplågo- ja iemeálmmukgiela beta-boallobievde majt Divvun-juogos UiT:an la dahkam."
   sv:
     name: "Divvun Dev-tangentbord"
     description: "Beta-tangentbord för minoritets- och urfolksspråk från Divvun-gruppen vid UiT."
