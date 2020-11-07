@@ -1,10 +1,18 @@
-[bundle.sms]
-github = "giellalt/keyboard-sms"
-layouts = ["sms"]
+[bundle.crk]
+github = "giellalt/keyboard-crk"
+layouts = ["crk", "crk-Cans"]
 
-[bundle.smn]
-github = "giellalt/keyboard-smn"
-layouts = ["smn"]
+[bundle.mdf]
+github = "giellalt/keyboard-mdf"
+layouts = ["mdf"]
+
+[bundle.myv]
+github = "giellalt/keyboard-myv"
+layouts = ["myv"]
+
+[bundle.nno]
+github = "giellalt/keyboard-nno"
+layouts = ["nn", "nn-Runr"]
 
 [bundle.sma]
 github = "giellalt/keyboard-sma"
@@ -18,22 +26,14 @@ layouts = ["se"]
 github = "giellalt/keyboard-smj"
 layouts = ["smj-NO", "smj-SE"]
 
-[bundle.crk]
-github = "giellalt/keyboard-crk"
-layouts = ["crk", "crk-Cans"]
+[bundle.smn]
+github = "giellalt/keyboard-smn"
+layouts = ["smn"]
+
+[bundle.sms]
+github = "giellalt/keyboard-sms"
+layouts = ["sms"]
 
 [bundle.srs]
 github = "giellalt/keyboard-srs"
 layouts = ["srs"]
-
-[bundle.myv]
-github = "giellalt/keyboard-myv"
-layouts = ["myv"]
-
-[bundle.mdf]
-github = "giellalt/keyboard-mdf"
-layouts = ["mdf"]
-
-[bundle.nno]
-github = "giellalt/keyboard-nno"
-layouts = ["nn", "nn-Runr"]
