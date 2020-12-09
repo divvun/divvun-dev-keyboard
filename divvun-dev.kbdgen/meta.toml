@@ -1,3 +1,7 @@
+[bundle.bxr]
+github = "giellalt/keyboard-bxr"
+layouts = ["bxr"]
+
 [bundle.crk]
 github = "giellalt/keyboard-crk"
 layouts = ["crk", "crk-Cans"]
