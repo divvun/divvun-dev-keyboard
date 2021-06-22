@@ -43,11 +43,11 @@ jobs:
         with:
           name: android
           path: output/*.apk
-      # - name: Publish (Android)
-      #   if: matrix.type == 'keyboard-android' && github.ref == 'refs/heads/master'
-      #   run: |
-      #     source "$DIVVUN_CI_CONFIG/enc/env.sh"
-      #     cd output/deps/giella-ime
-      #     ./gradlew publishApk
+      - name: Publish (Android)
+        if: matrix.type == 'keyboard-android' && github.ref == 'refs/heads/master'
+        run: |
+          source "$DIVVUN_CI_CONFIG/enc/env.sh"
+          cd output/deps/giella-ime
+          ./gradlew publishApk
 
 
