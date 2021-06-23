@@ -1,3 +1,7 @@
+[bundle.apu]
+github = "giellalt/keyboard-apu"
+layouts = ["apu"]
+
 [bundle.bxr]
 github = "giellalt/keyboard-bxr"
 layouts = ["bxr"]
