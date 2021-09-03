@@ -49,3 +49,4 @@ layouts = ["sms"]
 [bundle.srs]
 github = "giellalt/keyboard-srs"
 layouts = ["srs"]
+
