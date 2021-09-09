@@ -8,7 +8,7 @@ jobs:
       matrix:
         include:
           - type: keyboard-ios
-            os: macos-latest
+            os: macos-11
           - type: keyboard-android
             os: macos-latest
     steps:
