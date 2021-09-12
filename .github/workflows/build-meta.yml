@@ -26,8 +26,7 @@ jobs:
       - name: Install Dependencies (iOS) 
         if: matrix.type == 'keyboard-ios'
         run: |
-          sudo xcode-select -s $XCODE_12_DEVELOPER_DIR
-          sudo gem install fastlane
+          brew install fastlane
       - name: Run kbdgen
         id: build
         uses: divvun/actions/keyboard/build-meta@master
