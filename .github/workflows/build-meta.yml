@@ -38,6 +38,9 @@ jobs:
         run: |
           source "$DIVVUN_CI_CONFIG/enc/env.sh"
           fastlane pilot upload --skip_submission --skip_waiting_for_build_processing --ipa "output/ios-build/ipa/Divvun Dev Keyboards.ipa"
+        env:
+          SPACESHIP_SKIP_2FA_UPGRADE: 1
+          LANG: en_US.UTF-8
       - uses: actions/upload-artifact@v2
         if: matrix.type == 'keyboard-android' && github.ref == 'refs/heads/master'
         with:
