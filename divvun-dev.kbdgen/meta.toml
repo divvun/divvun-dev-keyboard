@@ -24,7 +24,7 @@ layouts = ["nn", "nn-Runr"]
 
 [bundle.sjd]
 github = "giellalt/keyboard-sjd"
-layouts = ["sjd", "sjd-x-fourrows"]
+layouts = ["sjd"]
 
 [bundle.sma]
 github = "giellalt/keyboard-sma"
