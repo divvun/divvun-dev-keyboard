@@ -10,6 +10,10 @@ layouts = ["bxr"]
 github = "giellalt/keyboard-crk"
 layouts = ["crk", "crk-Cans"]
 
+[bundle.fao]
+github = "giellalt/keyboard-fao"
+layouts = ["fo"]
+
 [bundle.mdf]
 github = "giellalt/keyboard-mdf"
 layouts = ["mdf"]
