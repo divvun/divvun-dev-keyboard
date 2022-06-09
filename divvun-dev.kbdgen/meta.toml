@@ -8,7 +8,7 @@ layouts = ["bxr"]
 
 [bundle.crk]
 github = "giellalt/keyboard-crk"
-layouts = ["crk", "crk-Cans"]
+layouts = ["crk", "crk-Cans", "crk-x-macron"]
 
 [bundle.fao]
 github = "giellalt/keyboard-fao"
