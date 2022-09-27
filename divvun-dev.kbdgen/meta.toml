@@ -14,6 +14,14 @@ layouts = ["crk", "crk-Cans", "crk-x-macron"]
 github = "giellalt/keyboard-fao"
 layouts = ["fo"]
 
+[bundle.fit]
+github = "giellalt/keyboard-fit"
+layouts = ["fit"]
+
+[bundle.fkv]
+github = "giellalt/keyboard-fkv"
+layouts = ["fkb"]
+
 [bundle.krl]
 github = "giellalt/keyboard-krl"
 layouts = ["krl"]
