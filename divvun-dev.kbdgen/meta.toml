@@ -20,7 +20,7 @@ layouts = ["fit"]
 
 [bundle.fkv]
 github = "giellalt/keyboard-fkv"
-layouts = ["fkb"]
+layouts = ["fkv"]
 
 [bundle.krl]
 github = "giellalt/keyboard-krl"
