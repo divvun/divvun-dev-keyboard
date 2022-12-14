@@ -32,3 +32,59 @@ email: feedback@divvun.no
 
 copyright: (c) 2015-2020 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
+
+dependencies:
+  apu:
+    url: "giellalt/keyboard-apu"
+    layouts: ["apu"]
+  bxr:
+    url: "giellalt/keyboard-bxr"
+    layouts: ["bxr"]
+  crk:
+    url: "giellalt/keyboard-crk"
+    layouts: ["crk", "crk-Cans", "crk-x-macron"]
+  fao:
+    url: "giellalt/keyboard-fao"
+    layouts: ["fo"]
+  fit:
+    url: "giellalt/keyboard-fit"
+    layouts: ["fit"]
+  fkv:
+    url: "giellalt/keyboard-fkv"
+    layouts: ["fkv"]
+  krl:
+    url: "giellalt/keyboard-krl"
+    layouts: ["krl"]
+  mdf:
+    url: "giellalt/keyboard-mdf"
+    layouts: ["mdf"]
+  myv:
+    url: "giellalt/keyboard-myv"
+    layouts: ["myv"]
+  nno:
+    url: "giellalt/keyboard-nno"
+    layouts: ["nn", "nn-Runr"]
+  olo:
+    url: "giellalt/keyboard-olo"
+    layouts: ["olo"]
+  sjd:
+    url: "giellalt/keyboard-sjd"
+    layouts: ["sjd"]
+  sma:
+    url: "giellalt/keyboard-sma"
+    layouts: ["sma"]
+  sme:
+    url: "giellalt/keyboard-sme"
+    layouts: ["se"]
+  smj:
+    url: "giellalt/keyboard-smj"
+    layouts: ["smj-NO", "smj-SE"]
+  smn:
+    url: "giellalt/keyboard-smn"
+    layouts: ["smn"]
+  sms:
+    url: "giellalt/keyboard-sms"
+    layouts: ["sms"]
+  srs:
+    url: "giellalt/keyboard-srs"
+    layouts: ["srs"]
