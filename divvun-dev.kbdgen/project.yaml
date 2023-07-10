@@ -34,9 +34,9 @@ copyright: (c) 2015-2020 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
 dependencies:
-  # apu:
-  #   url: "giellalt/keyboard-apu"
-  #   layouts: ["apu"]
+  apu:
+    url: "giellalt/keyboard-apu"
+    layouts: ["apu"]
   bxr:
     url: "giellalt/keyboard-bxr"
     layouts: ["bxr"]
