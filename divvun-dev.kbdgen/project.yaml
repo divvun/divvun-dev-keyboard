@@ -55,9 +55,9 @@ dependencies:
   krl:
     url: "giellalt/keyboard-krl"
     layouts: ["krl"]
-#  mdf:
-#    url: "giellalt/keyboard-mdf"
-#    layouts: ["mdf"]
+  mdf:
+    url: "giellalt/keyboard-mdf"
+    layouts: ["mdf"]
   myv:
     url: "giellalt/keyboard-myv"
     layouts: ["myv"]
