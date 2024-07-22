@@ -6,3 +6,4 @@ If you want your keyboard to be built, update `divvun-dev.kbdgen/targets/android
 
 Edits to the layouts should happen in the keyboard repos in [GiellaLT](https://github.com/giellalt), one repo for each language.
 
+
