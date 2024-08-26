@@ -70,6 +70,9 @@ dependencies:
   olo:
     url: "giellalt/keyboard-olo"
     layouts: ["olo"]
+  rmn:
+    url: "giellalt/keyboard-rmn"
+    layouts: ["rmn"]
   sjd:
     url: "giellalt/keyboard-sjd"
     layouts: ["sjd"]
