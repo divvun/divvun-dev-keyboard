@@ -93,6 +93,13 @@ See more information about it on GitHub: https://github.com/fastlane/fastlane/tr
 Username: divvun.ios@gmail.com
 [21:29:24]: To not be asked about this value, you can specify it using 'app_identifier'
 [21:29:24]: The bundle identifier(s) of your app (comma-separated string or array of strings): no.uit.giella.keyboards.dev.liv
+...
+```
+
+Specify only a single identifier if you are just adding a new language to the existing app. If you have to refresh all certs, then you also need to specify all bundle identifiers.
+
+```
+...
 [21:29:29]: Installing certificate...
 
 +-------------------------------------------------------------------------------+
