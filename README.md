@@ -24,8 +24,9 @@ Oh it's great fun. You can't just create it - you have to create an identifier f
 4. Select type "App". Continue
 5. Enter "Divvun Dev Keyboard liv" and "no.uit.giella.keyboards.dev.liv" as Descrition and BundleID (Explicit) respectively.
 6. In capabilities, copy the settings from some other keyboard you like. For instance https://developer.apple.com/account/resources/identifiers/bundleId/edit/TUY9Q4GR35
-7. Continue
-8. Register
+    - For the App Groups capability, make sure to Configure it by checking the `Divvun Keyboards Group` — `group.no.uit.giella.keyboards.dev` item.
+8. Continue
+9. Register
 
 
 ### 2. Add to fastlane.
