@@ -34,9 +34,15 @@ copyright: (c) 2015-2020 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
 dependencies:
+  aan:
+    url: "giellalt/keyboard-aan"
+    layouts: ["aan"]
   apu:
     url: "giellalt/keyboard-apu"
     layouts: ["apu"]
+  bwi:
+    url: "giellalt/keyboard-bwi"
+    layouts: ["bwi"]
   bxr:
     url: "giellalt/keyboard-bxr"
     layouts: ["bxr"]
@@ -52,15 +58,27 @@ dependencies:
   fkv:
     url: "giellalt/keyboard-fkv"
     layouts: ["fkv"]
+  gvp:
+    url: "giellalt/keyboard-gvp"
+    layouts: ["gvp"]
   krl:
     url: "giellalt/keyboard-krl"
     layouts: ["krl"]
   liv:
     url: "giellalt/keyboard-liv"
     layouts: ["liv"]
+  lut:
+    url: "giellalt/keyboard-lut"
+    layouts: ["lut"]
   mdf:
     url: "giellalt/keyboard-mdf"
     layouts: ["mdf"]
+  mpu:
+    url: "giellalt/keyboard-mpu"
+    layouts: ["mpu"]
+  myu:
+    url: "giellalt/keyboard-myu"
+    layouts: ["myu"]
   myv:
     url: "giellalt/keyboard-myv"
     layouts: ["myv"]
@@ -70,6 +88,12 @@ dependencies:
   olo:
     url: "giellalt/keyboard-olo"
     layouts: ["olo"]
+  pad:
+    url: "giellalt/keyboard-pad"
+    layouts: ["pad"]
+  pur:
+    url: "giellalt/keyboard-pur"
+    layouts: ["pur"]
   rmn:
     url: "giellalt/keyboard-rmn"
     layouts: ["rmn"]
@@ -82,6 +106,9 @@ dependencies:
   sju:
     url: "giellalt/keyboard-sju"
     layouts: ["sju"]
+  skf:
+    url: "giellalt/keyboard-skf"
+    layouts: ["skf"]
   sma:
     url: "giellalt/keyboard-sma"
     layouts: ["sma"]
@@ -100,3 +127,15 @@ dependencies:
   srs:
     url: "giellalt/keyboard-srs"
     layouts: ["srs"]
+  tqb:
+    url: "giellalt/keyboard-tqb"
+    layouts: ["tqb"]
+  txi:
+    url: "giellalt/keyboard-txi"
+    layouts: ["txi"]
+  waw:
+    url: "giellalt/keyboard-waw"
+    layouts: ["waw"]
+  wyr:
+    url: "giellalt/keyboard-wyr"
+    layouts: ["wyr"]
