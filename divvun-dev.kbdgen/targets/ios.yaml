@@ -5,4 +5,4 @@ bundleName: Divvun Dev Keyboards
 sentryDsn: https://4fdff38efe204d27aea3991a6804e020@o157567.ingest.sentry.io/5274597
 aboutDir: ../aboutFiles
 version: 1.2.0
-build: 250
+build: 251
