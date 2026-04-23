@@ -4,5 +4,5 @@ packageId: no.uit.giella.keyboards.dev
 bundleName: Divvun Dev Keyboards
 sentryDsn: https://4fdff38efe204d27aea3991a6804e020@o157567.ingest.sentry.io/5274597
 aboutDir: ../aboutFiles
-version: 3.11.0
-build: 280
+version: 3.12.0
+build: 281
