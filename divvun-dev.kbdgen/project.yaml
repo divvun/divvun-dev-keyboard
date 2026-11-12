@@ -49,6 +49,9 @@ dependencies:
   crk:
     url: "giellalt/keyboard-crk"
     layouts: ["crk", "crk-Cans", "crk-x-macron"]
+  eng:
+    url: "giellalt/keyboard-eng"
+    layouts: ["en"]
   fao:
     url: "giellalt/keyboard-fao"
     layouts: ["fo"]
